@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**ali7437/ali7437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Electrical Engineering Student | Coder by Curiosity
 
-Here are some ideas to get you started:
+I'm an EE student who enjoys stepping into the world of software.
+I love learning new things and building small projects to understand how things work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🎓 Studying Electrical Engineering at National University of Sciences and Technology (NUST)
+- 💻 Exploring coding in my free time
+- 🌱 Currently learning: Python and C++
+- 🔍 Interests: Embedded Systems
+- 📍 Based in Pakistan
+
+---
+## 📌 What I'm Up To
+
+- 🔨 Building small projects to practice coding
+- 📖 Learning one concept at a time
+- 🤝 Open to collaborating on beginner-friendly projects
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ali-shahzad-a9a8a63b0/
+- Email: alishahzad7437@gmail.com
